@@ -1,1 +1,1 @@
-print (auto_rigger)
+print ("auto_rigger file")
